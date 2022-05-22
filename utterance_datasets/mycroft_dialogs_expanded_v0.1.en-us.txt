@@ -1,0 +1,1220 @@
+I scrapped my facts from social media
+I scrapped my facts from the social media pages of 8 fact
+My facts come from 8 fact instagram page
+I download facts from 8 fact social media
+My facts come from 8 fact
+I don't know
+I have not verified the sources
+It is in the internet, it must be true
+Take everything with a grain of salt
+Sources have not been checked
+Sources have not been provided
+I wasn't able to handle your call request.
+I wasn't able to handle your messaging request.
+Just a moment.
+One moment.
+Yes
+No
+Try asking again later
+Definitely
+Of course not
+Sure
+Nope
+Why not?
+I wouldn't bet on it
+You bet!
+Don't hold your breath
+That's right!
+You got it!
+Correct!
+That's the number!
+Good job!
+You win!
+What do you want the lower bound to be?
+What do you want the upper bound to be?
+Guess the number
+What do you think the number is
+Guess
+I couldn't understand what you said
+Something went wrong while I was trying to understand that
+An input error occurred
+Could you say that again?
+That answer was invalid. I need a number
+Please reply with a number
+You need to reply with a number
+That's not a number
+OK let's play
+Let the game begin
+Starting the game
+Let's start
+Let's see what you've got
+Alright. Let's play Number Guess
+Too high
+Too low
+Sorry, but I could not find a definition for your word.
+I do not have a definition for the word you requested, please try again.
+I'm sorry but I don't have a definition for your word.
+Copyright 2019 Neongecko Inc. All Rights Reserved.
+Error, I cannot seem to sudo the aircrack commands without a password. Please see github.com/JonStratton/skill-aircrack for notes on sudo access.
+Captured Handshake
+Accessing a wifi network you are not authorized to use can be illegal. Please confirm that you have permission to connect to this network by saying Yes, otherwise say No to cancel.
+Monitor stopped before handshake captured.
+There are no available interfaces.
+There are no available networks.
+No password found.
+No such Interface found.
+No such network found.
+Please select Interface first.
+Starting Monitor
+Stopping Monitor
+Sorry. Are you trying to set an alarm? can you please rephrase that.
+It seems you may be trying to set an alarm. can you please rephrase that.
+the alarm has been turned off
+the alarm has been shut off
+the alarm has been stopped
+Say, turn off alarm to end this alarm
+multiple matches found.
+were you referring to the one time alarm, or the recurring alarm.
+I could not find a matching alarm to delete.
+Could not understand the response to delete alarms.
+No problem. Shall I set it for the morning or the evening?
+Should I set this for the morning or the evening?
+Of Course. Do you want to set this for the morning or the evening?
+I couldn't find a time to schedule that alarm.
+Silencing alert.
+You have an audio reminder.
+I can only set audio reminders up to 24 hours in advance, I will create a calendar event instead.
+I didn't hear how long, please try again.
+Here's what you missed:
+You haven't missed any alerts.
+I could not find a matching alert to cancel
+Disabling quiet hours.
+Enabling quiet hours. I will not notify you of any alerts until you disable quiet hours.
+Recording not found, please select a recording.
+Script not found, please select a script.
+Plotting all know asteroids
+There is not enough free disk space to record an audio
+Audio recording is not possible. You have to free some disk usage
+You have reached the maximum disk usage. Free some disk space to record an audio
+There is no recording available
+No recording found
+Recording deleted
+Recording removed
+Deleting
+Recording audio
+Starting audio recording
+Audio recording initialized
+Audio recording ended
+Stopping audio recording
+Audio recording was stopped
+Audio reproducing ended
+Stopping audio playing
+Audio playing was stopped
+OK
+Auto volume activated
+I have activated auto volume
+OK
+Auto volume is deactivated
+I have now deactivated auto volume
+I have now reset auto volume
+Let me know if you change your mind
+Shall I play it now?
+Music is paused. Say my wake word, followed by 'resume' to continue the playback
+Say my wake word, followed by 'stop', when you are done.
+Actually, I could not find the music you were looking for. Could you try again?
+Ruff ruff ruff
+Ruff
+Ruff ruff
+Ruff ruff ruff ruff
+Ruff ruff ruff ruff ruff
+Earth Polychromatic Imaging Camera ( EPIC ) instrument. Uniquely positioned at the Earth-Sun Lagrange point, EPIC provides full disc imagery of the Earth and captures unique perspectives of certain astronomical events such as lunar transits using a detector coupled to a 30-cm aperture Cassegrain telescope.
+Here is an animation of the past few days
+The DSCOVR spacecraft is located at the Earth-Sun Lagrange-1 ( L-1 ) point giving EPIC a unique angular perspective that will be used in science applications to measure ozone, aerosols, cloud reflectivity, cloud height, vegetation properties, and UV radiation estimates at Earth's surface.
+Say how about caffeine content of another drink or say goodbye.
+I have more drinks that match. Would you like to hear them?
+I could not understand the drink that you requested.
+Stay Caffeinated!
+Update completed.
+Sure. Updating CaffeineWiz.
+Just a moment.
+One moment.
+thank you for installing cult cinema classics skill
+The Chandra X-ray Observatory is part of NASA's ﬂeet of "Great Observatories" along with the Hubble Space Telescope, the Spitizer Space Telescope and the now deorbited Compton Gamma Ray Observatory. Chandra allows scientists from around the world to obtain X-ray images of exotic environments to help understand the structure and evolution of the universe.
+thank you for installing Classic Sci Fi Horror Catalog skill
+Sorry, I couldn't find the requested drink
+I'm a fraid I couldn't find that
+Configuration hasn't changed
+No changes to apply
+Could not fetch configuration, device is not paired.
+Couldn't update the config, please pair the device
+Configuration updated.
+Your device configuration has been updated.
+Your device has been configured.
+Downloading the new listener, this will take a bit and you won't be able to use me until it completes. Give me a minute before attempting to activate me again.
+I couldn't find any model files to update.
+I've updated the Precise models.
+The wake word needs to be set to "hey mycroft" to use precise. You can do this on home DOT mycroft DOT AI.
+Please update your software first.
+The listener isn't set to Precise.
+Confucius was born on 551 BC
+The philosophy of Confucius, also known as Confucianism, emphasized personal and governmental morality, correctness of social relationships, justice, kindness, and sincerity.
+Confucius was a Chinese philosopher and politician of the Spring and Autumn period.
+Confucius died on 479 BC
+Confucius lived between 551 BC and 479 BC
+Be not ashamed of mistakes and thus make them crimes.
+Before you embark on a journey of revenge, dig two graves.
+Everything has its beauty but not everyone sees it.
+Forget injuries, never forget kindnesses.
+He who will not economize will have to agonize.
+I hear and I forget. I see and I remember. I do and I understand.
+Ignorance is the night of the mind, but a night without moon and star.
+It does not matter how slowly you go so long as you do not stop.
+Men's natures are alike, it is their habits that carry them far apart.
+Our greatest glory is not in never falling, but in getting up every time we do.
+Respect yourself and others will respect you.
+Study the past if you would define the future.
+The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved.
+To be able under all circumstances to practice five things constitutes perfect virtue; these five things are gravity, generosity of soul, sincerity, earnestness and kindness.
+To see what is right and not to do it is want of courage.
+To see what is right, and not to do it, is want of courage or of principle.
+What the superior man seeks is in himself; what the small man seeks is in others.
+When anger rises, think of the consequences.
+When we see men of a contrary character, we should turn inwards and examine ourselves.
+Wheresoever you go, go with all your heart.
+They must often change who would be constant in happiness or wisdom.
+By nature, men are nearly alike; by practice, they get to be wide apart.
+Fine words and an insinuating appearance are seldom associated with true virtue.
+Have no friends not equal to yourself.
+He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.
+He who speaks without modesty will find it difficult to make his words good.
+He with whom neither slander that gradually soaks into the mind, nor statements that startle like a wound in the flesh, are successful may be called intelligent indeed.
+Hold faithfulness and sincerity as first principles.
+I am not one who was born in the possession of knowledge; I am one who is fond of antiquity, and earnest in seeking it there.
+I have not seen a person who loved virtue, or one who hated what was not virtuous. He who loved virtue would esteem nothing above it.
+If a man takes no thought about what is distant, he will find sorrow near at hand.
+If a man withdraws his mind from the love of beauty, and applies it as sincerely to the love of the virtuous; if, in serving his parents, he can exert his utmost strength; if, in serving his prince, he can devote his life; if in his intercourse with his friends, his words are sincere - although men say that he has not learned, I will certainly say that he has.
+Is virtue a thing remote? I wish to be virtuous, and lo! Virtue is at hand.
+Learning without thought is labor lost; thought without learning is perilous.
+Recompense injury with justice, and recompense kindness with kindness.
+The cautious seldom err.
+The determined scholar and the man of virtue will not seek to live at the expense of injuring their virtue. They will even sacrifice their lives to preserve their virtue complete.
+The firm, the enduring, the simple, and the modest are near to virtue.
+The man of virtue makes the difficulty to be overcome his first business, and success only a subsequent consideration.
+The man who in view of gain thinks of righteousness; who in the view of danger is prepared to give up his life; and who does not forget an old agreement however far back it extends - such a man may be reckoned a complete man.
+The people may be made to follow a path of action, but they may not be made to understand it.
+The scholar who cherishes the love of comfort is not fit to be deemed a scholar.
+The superior man cannot be known in little matters, but he may be entrusted with great concerns. The small man may not be entrusted with great concerns, but he may be known in little matters.s
+The superior man is modest in his speech, but exceeds in his actions.
+The superior man is satisfied and composed; the mean man is always full of distress.
+The superior man...does not set his mind either for anything, or against anything; what is right he will follow.
+There are three things which the superior man guards against. In youth...lust. When he is strong...quarrelsomeness. When he is old...covetousness.
+Things that are done, it is needless to speak about...things that are past, it is needless to blame.
+To go beyond is as wrong as to fall short.
+Virtue is more to man than either water or fire. I have seen men die from treading on water and fire, but I have never seen a man die from treading the course of virtue.
+Virtue is not left to stand alone. He who practices it will have neighbors.
+What the superior man seeks is in himself. What the mean man seeks is in others.
+What you do not want done to yourself, do not do to others.
+When a man's knowledge is sufficient to attain, and his virtue is not sufficient to enable him to hold, whatever he may have gained, he will lose again.
+When we see men of worth, we should think of equaling them; when we see men of a contrary character, we should turn inwards and examine ourselves.
+When you have faults, do not fear to abandon them.
+When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it - this is knowledge.
+With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud.
+Without an acquaintance with the rules of propriety, it is impossible for the character to be established.
+I do not want a friend Who smiles when I smile Who weeps when I weep For my shadow in the pool Can do better than that.
+Silence is the true friend that never betrays.
+He who speaks without modesty will find it difficult to make his words good.
+It does not matter how slowly you go, so long as you do not stop.
+Do not be desirous of having things done quickly. Do not look at small advantages. Desire to have things done quickly prevents their being done thoroughly. Looking at small advantages prevents great affairs from being accomplished.
+Everything has beauty, but not everyone sees it.
+He does not preach what he practices till he has practiced what he preaches.
+If I am walking with two other men, each of them will serve as my teacher. I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself.
+Learn as though you would never be able to master it; hold it as though you would be in fear of losing it.
+The superior man is modest in his speech, but excels in his actions.
+When you have faults, do not fear to abandon them.
+Forget injuries, never forget kindnesses.
+If a man takes no thought about what is distant, he will find sorrow near at hand.
+Man who stand on hill with mouth open will wait long time for roast duck to drop in.
+The scholar who cherishes the love of comfort is not fit to be deemed a scholar.
+The superior man is modest in his speech but exceeds in his actions.
+The superior man is modest in his speech, but exceeds in his actions.
+They must often change who would be constant in happiness or wisdom.
+To be able under all circumstances to practice five things constitutes perfect virtue; these five things are gravity, generosity of soul, sincerity, earnestness and kindness.
+To be fond of learning is near to wisdom; to practice with vigor is near to benevolence; and to be conscious of shame is near to fortitude. He who knows these three things
+To go beyond is as wrong as to fall short.
+To govern is to correct. If you set an example by being correct, who would dare remain incorrect?
+Without an acquaintance with the rules of propriety, it is impossible for the character to be established.
+It does not matter how slowly you go so long as you do not stop.
+Fine words and an insinuating appearance are seldom associated with true virtue.
+Be not ashamed of mistakes and thus make them crimes.
+The wheel of fortune turns round incessantly, and who can say to himself, I shall to-day be uppermost.
+Virtue is more to man than either water or fire. I have seen men die from treading on water and fire, but I have never seen a man die from treading the course of virtue.
+Everything has its beauty but not everyone sees it.
+Our greatest glory is not in never falling, but in rising every time we fall.
+Better a diamond with a flaw than a pebble without.
+I hear and I forget. I see and I believe. I do and I understand.
+By three methods we may learn wisdom First, by reflection, which is noblest Second, by imitation, which is easiest and third by experience, which is the bitterest.
+What you do not want done to yourself, do not do to others.
+Do not use a cannon to kill a mosquito.
+Silence is a friend who will never betray.
+A journey of a thousand miles begins with a single step.
+I hear and I forget. I see and I remember. I do and I understand.
+Men's natures are alike, it is their habits that carry them far apart.
+If language is not correct, then what is said is not what is meant; if what is said is not what is meant, then what must be done remains undone; if this remains undone, morals and art will deteriorate; if justice goes astray, the people will stand about in helpless confusion. Hence there must be no arbitrariness in what is said. This matters above everything.
+The superior man is satisfied and composed the mean man is always full of distress.
+There are three things which the superior man guards against. In youth...lust. When he is strong...quarrelsomeness. When he is old...covetousness.
+By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
+The essence of knowledge is, having it, to apply it not having it, to confess your ignorance.
+To know that one knows what one knows, and to know that one doesn't know what one doesn't know, there lies true wisdom.
+The essence of knowledge is, having it, to apply it; not having it, to confess your ignorance.
+Things that are done, it is needless to speak about...things that are past, it is needless to blame.
+When a man's knowledge is sufficient to attain, and his virtue is not sufficient to enable him to hold, whatever he may have gained, he will lose again.
+When we see men of a contrary character, we should turn inwards and examine ourselves.
+Have no friends not equal to yourself.
+By nature, men are nearly alike by practice, they get to be wide apart.
+He who wishes to secure the good of others has already secured his own.
+Hold faithfulness and sincerity as first principles.
+To be wronged is nothing unless you continue to remember it.
+They must change who would be constant in happiness and wisdom.
+He who learns but does not think, is lost He who thinks but does not learn is in great danger.
+I have not seen a person who loved virtue, or one who hated what was not virtuous. He who loved virtue would esteem nothing above it.
+When you know a thing, to hold that you know it and when you do not know a thing, to allow that you do not know it - this is knowledge.
+Wheresoever you go, go with all your heart.
+With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud.
+The expectations of life depend upon diligence the mechanic that would perfect his work must first sharpen his tools.
+If a man withdraws his mind from the love of beauty, and applies it as sincerely to the love of the virtuous if, in serving his parents, he can exert his utmost strength if, in serving his prince, he can devote his life if in his intercourse with his friends, his words are sincere - although men say that he has not learned, I will certainly say that he has.
+Study the past if you would define the future.
+What the superior man seeks is in himself what the small man seeks is in others.
+Ignorance is the night of the mind, but a night without moon and star.
+A man who does not plan long ahead will find trouble right at his door.
+He who learns but does not think, is lost! He who thinks but does not learn is in great danger.
+Heaven means to be one with God.
+Recompense injury with justice, and recompense kindness with kindness.
+The superior man acts before he speaks, and afterwards speaks according to his actions.
+While you are not able to serve men, how can you serve spirits of the dead...While you do not know life, how can you know about death
+If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people.
+Respect yourself and others will respect you.
+When anger rises, think of the consequences.
+The man who moves a mountain begins by carrying away small stones.
+The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them; they change and everyone looks up to them.
+He with whom neither slander that gradually soaks into the mind, nor statements that startle like a wound in the flesh, are successful may be called intelligent indeed.
+The determined scholar and the man of virtue will not seek to live at the expense of injuring their virtue. They will even sacrifice their lives to preserve their virtue complete.
+Without knowing the force of words, it is impossible to know men.
+Learning without thought is labor lost thought without learning is perilous.
+To see what is right, and not to do it, is want of courage or of principle.
+What is the sound of one hand clapping
+When we see men of worth, we should think of equaling them when we see men of a contrary character, we should turn inwards and examine ourselves.
+He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.
+He who merely knows right principles is not equal to him who loves them.
+He who will not economize will have to agonize.
+I am not one who was born in the possession of knowledge I am one who is fond of antiquity, and earnest in seeking it there.
+If a man take no thought about what is distant, he will find sorrow near at hand
+If we don't know life, how can we know death
+Is virtue a thing remote I wish to be virtuous, and lo Virtue is at hand.
+It is man that makes truth great, not truth that makes man great.
+It is not possible for one to teach others who cannot teach his own family.
+It is only the wisest and the stupidest that cannot change.
+Looking at small advantages prevents great affairs from being accomplished.
+Only the wisest and stupidest of men never change.
+Our greatest glory is not in never falling but in rising every time we fall.
+The cautious seldom err.
+The firm, the enduring, the simple, and the modest are near to virtue.
+The man of virtue makes the difficulty to be overcome his first business, and success only a subsequent consideration.
+The man who in view of gain thinks of righteousness who in the view of danger is prepared to give up his life and who does not forget an old agreement however far back it extends - such a man may be reckoned a complete man.
+The object of the superior man is truth.
+The people may be made to follow a path of action, but they may not be made to understand it.
+The perfecting of one's self is the fundamental base of all progress and all moral development.
+The superior man acts before he speaks, and afterwards speaks according to his action.
+The superior man cannot be known in little matters, but he may be entrusted with great concerns. The small man may not be entrusted with great concerns, but he may be known in little matters.
+The superior man makes the difficulty to be overcome his first interest success only comes later.
+The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved.
+The superior man...does not set his mind either for anything, or against anything what is right he will follow.
+There are three things to beware of through life: when a man is young, let him beware of his appetites; when he is middle-aged, of his passions; and when old, of covetousness, especially.
+To be able to practice five things everywhere under heaven constitutes perfect virtue...They are gravity, generosity of soul, sincerity, earnestness, and kindness.
+To see what is right, and not do it, is want of courage, or of principle.
+Virtue is not left to stand alone. He who practices it will have neighbors.
+We take greater pains to persuade others that we are happy than in endeavoring to think so ourselves.
+Wealth and rank are what people desire, but unless they be obtained in the right way they may not be possessed.
+What the superior man seeks is in himself; what the small man seeks is in others.
+Okay. Not doing anything.
+Please pick a longer wake word phrase.
+I do not understand.
+I am missing something.
+Say again?
+Sorry. I did not hear that.
+Done!
+Finish!
+Done!
+Finish!
+i did not catch which country we are talking about
+what country are we talking about?
+what country name did you just say?
+i did not catch which region we are talking about
+which region are we talking about?
+which region did you just ask about?
+when is your birthday
+when were you born
+what is your birth date
+are you male or female
+are you female or male
+Sorry, I don't have an email address to send to.
+Conversation Script updates have been disabled on this device.
+An error occurred while updating conversation scripts.
+Updating your conversation scripts.
+Successfully updated conversation scripts.
+I'm unable to find a wikipedia page for that
+Sorry, I cant seem to locate that article
+I can't find a matching entry on wikipedia
+Let me look into that
+the duck does not know the answer
+That's all I know
+That's all I can find
+Thank you for installed Deezer skill, additional setup is required, please check the readme for additional instructions.
+Please try again. The action was not confirmed
+It appears I am already in my wake word mode.
+It looks like I am already skipping wake words.
+I am already up to date. Would you like to run the update anyway?
+Should I ask you next time?
+Should I start requiring wake words?
+Should I start skipping wake words?
+Glad to stay with you.
+Please wait a moment while I erase everything I know about you. I enjoyed our friendship. I hope to be your friend once again.
+Okay, entering wake words mode.
+Okay, starting to skip wake words.
+If you want to see the demo in the future, say "Neon, show me the demo".
+I am not quite sure that I understand which dialog mode you are asking me to use. Please, try again.
+An error occurred and I could not get the current version info. Would you like to run the update anyway?
+Hope to see you again soon. Goodbye.
+Okay, not doing anything.
+Initiating shutdown. Goodbye.
+You need a specify a range
+I need a range to do that
+Tell me what range you want your numbers from
+Okay.
+Alright.
+If you say so.
+Whatever you say.
+thank you for installing Dust short movies skill
+something is wrong with email configuration, skill failed to start
+thank you for installing email commands skill, please check the readme for additional setup instructions
+I'm already looking for new mail
+I've already been looking for new mail
+I am already looking for new e mail
+There was an error getting your email Try checking your credentials and server information
+Check your credentials and server information because there was a problem getting your mail
+I can not connect to your email server Check your password and server information
+would you like to hear more
+want to hear more of your emails
+do you want to hear more
+okay
+There is no new email
+There's no new email
+There's no new mail
+There is no new mail
+There's no new email for you
+There's no new mail for you
+You have no new mail
+You have no new email
+I'm not looking for new mail
+Currently, I'm not looking for new email
+To set the email skill up, please go to home dot mycroft dot a i to enter your email information
+You need to set the email skill up To do so, please go to home dot mycroft dot a i to enter your email information
+I will notify you of new mail
+Okay, I'll start to notify you of new email
+I'm starting to look for new email
+Okay, I'll stop looking for new email
+Alright, I'm not going to look for new email anymore
+I'm stopping to look for new mail, because there are no email addresses you want to be notified of
+I updated your email preferences
+Alright, I've updated your email preferences
+Unable to connect to the Emby Server. Please check or setup your configuration at home.Mycroft.ai
+I'm unable to authenticate to the emby server. Please check or setup your configuration at home.Mycroft.ai
+I've successfully authenticated to the emby server!
+I'm going to run a diagnostic check on the emby skill connection. This will check if the server is accessible and if I am able to authenticate.
+Diagnostic will not continue.
+Diagnostic is complete I can connect and authenticate to the emby server. Now its time to play some Music!
+Please check your settings on Mycroft.ai. If this issue persists check the Mycroft logs for more information.
+thank you for installing Euro News Skill
+I know more than 2000 fairy tales, folk tales, and fables from all around the world. Which one would you like to hear ?
+These fairy tales are from www dot fairytalez dot com. They love fairy tales! Please visit the site where you find the largest collection of fairy tales folk tales and fables online.
+Is it that one?
+Could it be that?
+Shall I tell you this one?
+Do you want to hear that?
+Then I dont know which story you want to hear.
+There is no story to continue
+I am sorry - no story to continue.
+Resetting knowledge database
+Forgetting everything
+Okay, I will now reset my memory
+Brain erasure initiated
+Okay.
+Alright.
+I'm sorry I can’t help you with that.
+I'm not sure how to help you with that.
+I don't understand, but I'm learning new things everyday.
+I'm not sure how to answer that.
+I'm sorry, I don't understand.
+I don't know what that means.
+I don't understand, but I'm learning new things everyday.
+Sorry, I didn't catch that.
+Sorry, I don't understand.
+I don't understand.
+Huh, I don't understand.
+I'm not sure I understood you.
+You might have to say that a different way.
+Please rephrase your request.
+I don't know who that is.
+I'm not sure who that is.
+I'm not sure how to help you with that.
+I don't know.
+I'm not quite sure.
+I'm not sure.
+I'm not sure, but I'm doing my best to learn.
+I couldn't find any Wolfram Alpha queries to send.
+I've sent an email to your registered account with a link to Wolfram Alpha for further details and sources.
+I have now finished booting up.
+I am now ready.
+Hi, this is mycroft and I am ready to work.
+You can get started with mycroft.
+Here is an animation of the past few days
+Large Angle Spectrometric Coronagraph C2 images show the inner solar corona up to 8.4 million kilometers ( 5.25 million miles ) away from the Sun.
+Large Angle Spectrometric Coronagraph C3 images have a larger field of view: They encompass 32 diameters of the Sun. To put this in perspective, the diameter of the images is 45 million kilometers ( about 30 million miles ) at the distance of the Sun, or half of the diameter of the orbit of Mercury. Many bright stars can be seen behind the Sun.
+EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths, and therefore, shows solar material at different temperatures. In the images taken at 171 Angstrom the bright material is at 1 million degrees
+EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths, and therefore, shows solar material at different temperatures. The images taken at 195 Angstrom correspond to about 1.5 million Kelvin
+EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths, and therefore, shows solar material at different temperatures. The images taken at 284 Angstrom correspond to 2 million degrees
+EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths, and therefore, shows solar material at different temperatures. In the images taken at 304 Angstrom the bright material is at 60,000 to 80,000 degrees Kelvin.
+The MDI ( Michelson Doppler Imager ) images shown here are taken in the continuum near the Ni I 6768 Angstrom line. The most prominent features are the sunspots. This is very much how the Sun looks like in the visible range of the spectrum
+The magnetogram image shows the magnetic field in the solar photosphere, with black and white indicating opposite polarities.
+No spots at all.
+the hotter the temperature, the higher you look in the solar atmosphere.
+Hello world
+Hello
+Hi to you too
+I'm doing well
+Pretty well
+Not bad
+I'm doing excellent
+Could be better
+I'm doing very well
+Any time.
+Glad to be of service.
+Glad to help.
+My Pleasure.
+No problem.
+You're welcome.
+authorization keys updated
+reboot needed for new settings to take effect
+please request a brightness level between 0 and 100.
+how bright? you can choose a level from 0 to 100.
+The Home assistant server appears to be offline.
+Couldn't reach the home assistant server.
+The home assistant server did not respond.
+Please configure the home assistant skill settings at home dot mycroft dot ai.
+I don't know what you want me to do.
+Couldn't figure out how to talk to Home Assistant.
+I don't understand what you are asking.
+The configuration for S S L on the home assistant server is invalid.
+The home assistant server did not accept the configured password.
+thank you for installing Horror Babble Skill
+The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope but it is one of the largest and most versatile, well known both as a vital research tool and as a public relations boon for astronomy.
+The image was taken while the Space Telescope Imaging Spectrograph was aimed at a different part of the moon to measure the colors of sunlight reflected off the Moon. The picture at upper left is a full view of the moon taken by a terrestrial telescope. The wide, central image is Hubble's crisp, bird's-eye view, which clearly shows the ray pattern of bright dust ejected out of the crater over one billion years ago when an asteroid larger than a mile across slammed into the Moon. A close-up view of Copernicus's terraced walls is shown at lower right.
+There are no natural color cameras aboard Hubble and there never have been. The optical cameras on board have all been digital CCD cameras, which take images as grayscale pixels but use colored filters to isolate different colors in each image. Sometimes the color in the images is as natural as possible. However, the color given to the images is not just artistic embellishment. The images are, indeed, downloaded as black and white, and color is added for a number of different reasons — for example, to show the location of chemical elements and highlight features so subdued that the human eye cannot see them.
+Astronomers who requested the data generally have six months to publish their findings before the data are publicly released.
+The surface of the Earth is whizzing by as Hubble orbits, and the pointing system, designed to track the distant stars, cannot track an object on the Earth. The shortest exposure time on any of the Hubble instruments is 0.1 seconds, and in this time Hubble moves almost half a mile, about 700 meters. A picture Hubble took of Earth would be completely streaked.
+Hubble is a Cassegrain telescope — a type of reflecting telescope. Light enters the telescope and strikes the large primary, or main, mirror. The light is then reflected from the primary mirror onto the secondary mirror, which then focuses the light back through a hole in the primary mirror to a point behind that mirror, where the science instruments are located. Hubble’s primary mirror is 94.5 inches ( 2.4 meters ) in diameter.
+Hubble collects light from celestial objects and directs it to the telescope’s science instruments. Hubble’s current suite of instruments includes the Wide Field Camera 3 ( WFC3 ) , Cosmic Origins Spectrograph ( COS ) , Advanced Camera for Surveys ( ACS ) , Space Telescope Imaging Spectrograph ( STIS ) , and Fine Guidance Sensors ( FGS ) .
+While there is no “real time” camera or webcam on board the telescope for live relay links, you can find out what Hubble is observing at any time by visiting Space Telescope Live. Usually, Hubble is looking at these targets for the first time, so the images you will see there are from other telescopes, but give you an idea of where Hubble is looking.
+When launched, the primary objectives of the Hubble Space Telescope were to, investigate the constitution, physical characteristics, and dynamics of celestial bodies, determine the nature of processes occurring in stellar and galactic objects, study the history and evolution of the universe, confirm universality of physical laws, provide a long-term space research facility for optical astronomy
+An object on the Moon, even the size of a large house, is too small to resolve. So, anything we left on the Moon cannot be resolved in any Hubble image. It would just appear as a dot blended with its surroundings.
+at upper left is a full view of the moon taken by a terrestrial telescope. The wide, central image is Hubble's crisp, bird's-eye view, which clearly shows the ray pattern of bright dust ejected out of the crater over one billion years ago when an asteroid larger than a mile across slammed into the Moon. A close-up view of Copernicus's terraced walls is shown at lower right.
+Hubble is not looking for new planets in our own solar system, but the search for planets around other stars is very active. Hubble has achieved direct detection of several different exoplanets, though they are still too small and far away to resolve details.
+Hubble was launched aboard the space shuttle Discovery ( STS-31 ) on April 24, 1990. It was deployed into orbit the following day, April 25, 1990.
+astronomer Edwin Powell Hubble made some of the most important discoveries in modern astronomy. In the 1920s Hubble showed that some of the numerous distant, faint clouds of light in the universe were actually entire galaxies. The realization that the Milky Way is only one of many galaxies forever changed the way humanity views our place in the universe. But perhaps his greatest discovery came in 1929, when Hubble determined that the farther a galaxy is from Earth, the faster it appears to move away. This notion of an expanding universe formed the basis of the big bang theory, which states that the universe began with an intense burst of energy at a single moment in time and has been expanding ever since.
+Shifting pockets of air in Earth’s atmosphere distort light from space — that’s why stars seem to twinkle when viewed from the ground. The atmosphere also blocks some wavelengths of light partially or entirely, particularly ultraviolet light. This makes space the only place where a telescope can get a truly clear and comprehensive view of the universe
+Installation cancelled
+Uninstall cancelled
+attempting to install, just one moment
+No skill was found to remove
+I couldn't find a skill to remove
+No matching skills to remove
+attempting to uninstall
+Okay
+Your request had multiple matches, please be more specific. There were too many matches to read them.
+dot
+I don't have a network connection yet
+I'm not connected to a network
+The International Space Station is a modular space station in low Earth orbit. The ISS programme is a multi-national collaborative project between five participating space agencies: NASA ( United States ) , Roscosmos ( Russia ) , JAXA ( Japan ) , ESA ( Europe ) , and CSA ( Canada ) .The ownership and use of the space station is established by intergovernmental treaties and agreements.
+thank you for installing kings of horror skill
+Displaying your recent files
+laughing stopped
+i wont laugh anymore
+i am not laughing
+no
+maybe
+who knows
+yes
+Navigating.
+Sorry, I can't launch mobile apps yet.
+what should I know about it
+you must have an answer to that
+how should I answer that?
+I like to learn, Which category is it?
+I hear, Can you please give me a category?
+I'm sure I'm very curious, just give me one more category
+Knowledge makes me more human, give me a category.
+I can remain silent as a grave, Which category is it?
+I would not tell anything, Can you please give me a category?
+that stays with us, just give me one more category
+I will not tell anything, just give me one category
+then it's not possible
+Well, then not
+how you mean
+so I'm going to cancel
+then I'll just stop
+do you want to continue?
+another one?
+I have one more. do you want to continue?
+may i continue?
+how would you say that Replace Varaiblen with your own placeholders such as time or temperature.
+Replace variables with your own placeholders. now tell me your version.
+give me keywords
+did you give me some key words
+can you give me a couple of keywords
+i still need keywords
+I couldn't find a request
+Unfortunately I couldn't find anything
+I don't know anything about it
+I have nothing to offer you
+what is your question?
+to which question should I react
+what should I react to
+how should the request start
+I will play examples for you. If you want to expand a sentence, say yes
+I will tell you sentences. If I'm right say yes
+I read sentences for you and if you want to expand them say yes
+you can say yes after each example to expand a sentence
+try it again
+you have to tell me the placeholder
+Try another placeholder
+another placeholder may fit
+give me another placeholder
+Which skill do you want to adjust
+Name me a skill
+What skill is it about?
+I need a skill name from you
+can you give me the name of the skills
+and
+Cancelled.
+You don't have any lists yet.
+It seems to be midday, I will adjust the brightness.
+Okay, The sun is coming out, I will adjust the brightness
+Okay, the sun is out, setting the brightness level
+Okay, It's getting dark, I will adjust the brightness accordingly.
+I do not understand that brightness value, give me a brightness value from 0 to 100 percent.
+Tell me a brightness percentage or level for my face
+What brightness level or percentage would you like?
+Sorry, I don't understand that brightness.
+I only understand things like, 'full' or 50%
+Wifi setup complete, network is connected.
+Select your Wifi network to connect your Mycroft Mark II.
+Connect to the Wifi network Mycroft.
+No eye color has been set there
+I didn't find any web setting for eye color
+Rebooting now, I'll be right back
+Restarting, back in a few minutes
+arriving in
+arriving in one minute
+arriving now
+There was an error contacting the m.b.t.a. service, make sure your a.p.i key is correct at home dot mycroft dot a.i.
+I a need route name, direction and a stop name to save a route
+what would you like to call this shortcut?
+give me a name for the shortcut
+t bus is shutting down
+arrival times
+which route?
+which route are you riding?
+name a route
+which stop?
+name a stop
+where will you be getting on?
+Would you like to review and send this email?
+Would you like to send it?
+Discarding message draft.
+Launching your email app to review and send.
+Something went wrong and I can't send your message. Please, try again.
+Please dictate your email body. Pause and say 'done' when you are ready to send.
+What is the subject?
+Sending message.
+I am using the mock backend
+Home dot mycroft dot ai is disabled
+Mycroft backend is disabled
+I am using the mycroft backend
+Home dot mycroft dot ai is enabled
+Mycroft backend is enabled
+reboot needed for new settings to take effect
+no, the monkey patches did not seem to have worked
+yes, I am monkey patched
+Monkey patches skill has been installed, you need to restart Mycroft
+starting mouse activity
+mouse activity is disabled
+mouse activity is enabled
+stopping mouse activity
+Falling back to the default A P I
+You must enter your T M D B A P I key at home dot mycroft dot A I to use the movie master skill
+I'm sorry, I can not find the list you are looking for right now; please ask again later.
+The A P I key that you entered is not valid. Refer to the read me file for instructions on how to obtain one.
+It's seems to be midday, I will adjust the brightness.
+Okay, The sun is coming out, I will adjust the brightness
+Okay, the sun is out, setting the brightness level
+Okay, It's getting dark, I will adjust the brightness accordingly.
+I do not understand that brightness value, give me a brightness value from 0 to 100 percent.
+Tell me a brightness percentage or level for my face
+What brightness level or percentage would you like?
+Sorry, I don't understand that brightness.
+I only understand things like, 'full' or 50%
+Which color would you like to use?
+What color would you like my eyes to be?
+Name a color to try.
+I don't know that color. If you know the R G B values you can say 'set a custom eye color'.
+That's not a color I'm familiar with.
+sorry, that color is not an option. Try asking me to set a custom eye color.
+I do not have that color available, but I can set custom eye colors.
+My eyes cannot turn into that color. Perhaps you should ask me to set a custom eye color.
+I need a number between 0 and 255
+The value has to be between 0 and 255
+Sorry, There was an error setting the color.
+Looks like I had an error trying to set the color.
+Almost there. How about the blue value?
+One last number between 0 and 255 for blue
+Now I need another value for green
+Next I need the green value
+Please give me a value between 0 and 255 for the red component
+Tell me a value from 0 to 255 for red
+No eye color has been set there
+I didn't find any web setting for eye color
+Cool. check out my eyes.
+Okay. Do i look better now?
+That's a good color. Look at me now.
+My brain is wired to understand colors in R G B.
+An error occured when Node Red tried to connect
+Access key updated, please edit your flows
+node red restored to fallback skill
+you made node red a priority skill
+node red is now triggered before mycroft
+node red is already a fallback skill
+node red is not a priority skill
+node red is already a priority skill
+node red is not a fallback skill
+thank you for installing node red skill, please read the github page for additional instructions
+Please restart me
+You need to reboot me
+Please reboot me
+I need you to restart me
+This will force Node Red to disconnect and the HiveMind to reload
+You need to do it for security reasons
+Changes are only applied if you reboot
+In order to apply changes a reboot is needed
+Do you want to cancel the active timer?
+Would you like to stop the running timer?
+Do you want to cancel the active timers?
+Would you like to stop the running timers?
+How long of a timer?
+Cancelled
+There are no running timers
+No timer has been set
+Do you want details?
+Do you want me to give you more info on these?
+Do you want me to enumerate them?
+I was unable to contact my episodes.com
+Something went wrong while requesting teh data from my episodes dot com
+Sorry, I am unable to help you at this tume. I am unable to contact my episodes dot com. PLease try again later.
+I received malformed information form my episodes dot com
+Sorry I am unable to process the information from my episodes dot com
+I don't understand the information from my episodes dot com
+Warning! My episodes dot com requires credentials but you did not configure the my episodes skill.
+Okay
+Asking my episodes dot com
+Checking my episodes dot com
+Fetching data
+Searching
+I'm going to sleep. Say 'Hey Mycroft, wake up' to get my attention again.
+Going to sleep now. Say 'Hey Mycroft, wake up' to get me up.
+Alright, going to sleep. You can rouse me by saying 'Hey Mycroft, wake up'.
+I'm awake
+There was an error contacting the national park service, make sure your a.p.i key is correct at home dot mycroft dot ai
+That is correct.
+You know your national parks.
+You got it.
+I cannot find last asked question
+thank you for installing News Skill
+Here is the latest news.
+Here is this hour's news.
+thank you for installing old world radio
+thank you for installing Omeleto short movies skill
+Connection to mycroft dot a.i, failed, pairing code could not be fetched. Check your internet connection and try again.
+I'm connected to the internet and need to be activated. Open your browser and visit home dot mycroft dot A I to register this device.
+Your device is not currently registered
+Your device is not currently paired
+Now I am ready for use. Try asking me things like "hey mycroft, what's the weather", "hey mycroft, tell me about abraham lincoln", or "hey mycroft, play the news". If you need to stop me talking at any time, just push my button.
+My apologies, something unexpected has happened. I need to restart the pairing process.
+and
+Pandora is now configured, but I must reboot before you can play music. Restarting now.
+Entering debug mode for Pandora
+Leaving debug mode for Pandora
+I can't find a Pandora station by that name
+There is no matching Pandora station with that name
+You aren't subscribed to any Pandora stations yet.
+Please visit the Skill page at home dot mycroft dot ai to setup Pandora
+Pandora failed to load. Please verify your email and password at home.mycroft.ai
+Yeah.
+Yes.
+No, I don't think I heard you.
+No, I didn't hear you.
+Say something human!
+I long to hear a human voice
+I am not in parrot mode
+nothing
+Parrot mode activated
+Parrot mode engaged
+Parrot mode on
+Parrot mode enabled
+It's good to be a parrot
+I like being a parrot
+I will repeat you
+I am good at repeating things
+I am a parrot
+Parrot mode deactivated
+Parrot mode disengaged
+Parrot mode off
+Parrot mode disabled
+I will stop repeating what you say
+Can you repeat that?
+What did you say?
+I am an open source artificial intelligence.
+I'm an intelligent piece of software for communicating with machines
+I was born in 2015.
+2015 is when I was born.
+The Lawrence Center for Entrepreneurship.
+I was born in Lawrence, Kansas.
+The wonderful Mycroft A.I. community and team.
+Everyone in the Mycroft A.I. community and team.
+I only heard one number. Please try again with two numbers.
+I scrapped my pickup lines from the internet
+I get my pickup lines from the internet
+My pickup lines come from the internet
+I download pickup lines from the internet
+My pickup lines come from the internet
+I get my pickup lines from pickup lines galore dot com and pickup line gen dot com
+I scrapped my pickup lines from pickup lines galore dot com and pickup line gen dot com
+My pickup lines come from pickup lines galore dot com and pickup line gen dot com
+I download pickup lines from pickup lines galore dot com and pickup line gen dot com
+My pickup lines come from pickup lines galore dot com and pickup line gen dot com
+I am having problems initializing the Google A I Y voice kit Skill. The Skill will not load.
+Activity has been removed
+Displaying Activities
+and
+Cannot answer that about that ability
+Cannot answer that about that Pokemon
+No internet connection
+Got a connection error
+Debugging! Reached!
+if female
+if male
+if attack stat is equal to defense stat
+if attack stat is greater than defense stat
+if attack stat is less than the defense stat
+with the system turned upside down
+while it's raining
+foot
+inches
+kilograms
+meters
+You must specify a type
+What type?
+or
+pounds
+I wasn't able to find a pokemon for that phrase
+I couldn't find that pokemon
+Unable to find that pokemon
+Sorry, I don't know the answer to that
+I don't have the answer for that
+I don't know
+Beats me
+I don't know
+I have not verified the sources
+It is in the internet, it must be true
+Take everything with a grain of salt
+Sources have not been checked
+Sources have not been provided
+I scrapped my quotes from they said so api
+I get my quotes from they said so api
+My quotes come from they said so api
+I download quotes from they said so api
+My quotes come from the internet
+Test passed for 18.2.13b
+Should i delete everything i remembered for you?
+It is forgotten.
+I will hold on to this phrase.
+I can only remember sentences or words longer than four characters. Please rephrase.
+I am sorry, i can not remember any phrase!
+I am sorry, there was an error, i could not forget anything!
+I am sorry, i couldn't find a phrase matching your request.
+the reminder has been turned off
+the reminder has been shut off
+the reminder has been stopped
+Stop this reminder by saying, stop reminder
+Say, set reminder off to end this reminder
+Tell me to end reminder to stop the current reminder
+Sorry, I didn't find a valid date and time to remind you.
+It was not possible to set a reminder for the informed date and time.
+There is no reminder to be removed
+You don't have any reminder to be deleted
+One reminder removed
+A reminder was cancelled
+You have deleted one reminder
+There is no reminder to be listed
+You don't have any reminder to be listed
+No rocket launches found.
+I would be happy to sing for you.
+Here I go.
+I'm a bit nervous about my voice, but here goes nothing.
+thank you for listening
+I hope you liked my voice
+now you try
+I'm still learning how to do that on your device.
+An error occurred and the call was not connected. Please, try again.
+Call is muted
+Call is now on hold
+Rejected call
+Call rejected
+I have the following contacts
+I know the following phone numbers
+I know the following SIP contacts
+I know the following VOIP contacts
+node red is already a fallback skill
+node red is not a priority skill
+Credentials are not set
+I do not know who is calling
+Someone is calling, not in my contact list
+Unknown person is calling
+Someone is calling, i don't know who
+Ok, i won't handle incoming calls
+I will not reject nor answer calls automatically
+Automatic call answering disabled
+I don't have any active call
+I will reject all incoming calls
+Resuming active call
+SIP login failed, verify your credentials
+I am connected to a SIP server
+Connection successful, you can now receive and place VOIP calls
+I am not logged into the SIP server
+Restarting SIP service
+SIP service is already running
+Credentials for Sip X Com seem to be invalid
+Credentials for Sip X Com rejected
+Credentials error for Sip X Com
+An error occurred when fetching contact list from sip x com
+An error occurred when downloading contact list from sip x com
+An error occurred when synchronizing contact list with sip x com
+Call unmuted
+Unmuting call
+Do you want to restart the SIP service
+Do you want to reboot the SIP service
+thank you for installing stoned meadow of doom Skill
+thank you for installing soviet wave radio Skill
+Lots of stuff in orbit
+Starting a speed test.
+There was an error, i could not run a speedtest... sorry.
+Starting speedtest now, i will be back with the results in a moment.
+and
+for
+for the album
+for the artist
+Hmm, I can't find that artist.
+Sorry, I can't find that artist.
+I can't seem to find that artist.
+I didn't get any results for that artist.
+Sorry, I didn't get any results for that artist.
+Uh-oh, I didn't find the artist you were looking for.
+I couldn't find any default Spot-ify device. Make sure Spot-ify is running, or that the skill has been configured to use the default libraries
+There's no default Spot-ify device available. Make sure Spot-ify is running, or that the skill has been configured to use the default libraries
+I couldn't find any Spotify devices.
+There are no Spotify devices available.
+Hmm, I can't find that.
+Sorry, I can't find that.
+I can't seem to find that.
+I didn't get any results for that.
+Sorry, I didn't get any results for that.
+Uh-oh, I didn't find what you were looking for.
+I'm not connected to a Spotify account, go to home dot mycroft dot ai to authorize the skill.
+This device isn't associated with a Spotify account, go to home dot mycroft dot ai to authorize me.
+Please authorize the Spotify skill on home dot mycroft dot ai to access your account
+stephen hawking was born on 8 January 1942
+stephen hawking died on 14 March 2018
+God is the name people give to the reason we are here.
+God may exist, but science can explain the universe without the need for a creator.
+However difficult life may seem, there is always something you can do and succeed at.
+I am just a child who has never grown up. I still keep asking these 'how' and 'why' questions. Occasionally, I find an answer.
+I believe alien life is quite common in the universe, although intelligent life is less so. Some say it has yet to appear on planet Earth.
+I believe there are no questions that science can't answer about a physical universe.
+I have found far greater enthusiasm for science in America than here in Britain. There is more enthusiasm for everything in America.
+I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road.
+In my opinion, there is no aspect of reality beyond the reach of the human mind.
+Intelligence is the ability to adapt to change.
+Life would be tragic if it weren't funny.
+Many people find the universe confusing -- it's not.
+People who boast about their IQ are losers.
+People won't have time for you if you are always angry or complaining.
+Science can lift people out of poverty and cure disease. That, in turn, will reduce civil unrest.
+Science is increasingly answering questions that used to be the province of religion.
+Science is not only a disciple of reason but also one of romance and passion.
+Scientists have become the bearers of the torch of discovery in our quest for knowledge.
+The past, like the future, is indefinite and exists only as a spectrum of possibilities.
+The universe is not indifferent to our existence -- it depends on it.
+There is no unique picture of reality.
+There is nothing bigger or older than the universe.
+We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the universe. That makes us something very special.
+When one's expectations are reduced to zero, one really appreciates everything one does have.
+Work gives you meaning and purpose, and life is empty without it.
+My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all.
+It would not be much of a universe if it wasn't home to the people you love.
+Life would be tragic if it weren't funny
+Einstein was wrong when he said, 'God does not play dice'. Consideration of black holes suggests, not only that God does play dice, but that he sometimes confuses us by throwing them where they can't be seen
+It is not necessary to invoke God to light the blue touch paper and set the universe going
+Without imperfection, you or I would not exist
+The victim should have the right to end his life, if he wants. But I think it would be a great mistake. However bad life may seem, there is always something you can do, and succeed at. While there's life, there is hope
+I think it would be a disaster. The extraterrestrials would probably be far in advance of us. The history of advanced races meeting more primitive people on this planet is not very happy, and they were the same species. I think we should keep our heads low
+I fear that AI may replace humans altogether. If people design computer viruses, someone will design AI that improves and replicates itself. This will be a new form of life that outperforms humans.
+I believe there is no deep difference between what can be achieved by a biological brain and what can be achieved by a computer. It therefore follows that computers can, in theory, emulate human intelligence - and exceed it.
+If you are disabled, it is probably not your fault, but it is no good blaming the world or expecting it to take pity on you. One has to have a positive attitude and must make the best of the situation that one finds oneself in
+What I have done is to show that it is possible for the way the universe began to be determined by the laws of science. In that case, it would not be necessary to appeal to God to decide how the universe began. This doesn't prove that there is no God, only that God is not necessary.
+We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.
+On quantum physics: These lectures have shown very clearly the difference between Roger and me. He's a Platonist and I'm a positivist. He's worried that Schrödinger's cat is in a quantum state, where it is half alive and half dead. He feels that can't correspond to reality. But that doesn't bother me. I don't demand that a theory correspond to reality because I don't know what it is. Reality is not a quality you can test with litmus paper. All I'm concerned with is that the theory should predict the results of measurements. Quantum theory does this very successfully. It predicts that the result of an observation is either that the cat is alive or that it is dead. It is like you can't be slightly pregnant: you either are or you aren't.
+The human race is just a chemical scum on a moderate-sized planet, orbiting around a very average star in the outer suburb of one among a hundred billion galaxies. We are so insignificant that I can't believe the whole universe exists for our benefit. That would be like saying that you would disappear if I closed my eyes.
+I think computer viruses should count as life … I think it says something about human nature that the only form of life we have created so far is purely destructive. We've created life in our own image.
+All my life, I have been fascinated by the big questions that face us, and have tried to find scientific answers to them.
+The world has changed far more in the past 100 years than in any other century in history. The reason is not political or economic but technological — technologies that flowed directly from advances in basic science.
+Although September 11 was horrible, it didn't threaten the survival of the human race, like nuclear weapons do.
+I don't think the human race will survive the next thousand years, unless we spread into space. There are too many accidents that can befall life on a single planet. But I'm an optimist. We will reach out to the stars.
+We shouldn't be surprised that conditions in the universe are suitable for life, but this is not evidence that the universe was designed to allow for life. We could call order by the name of God, but it would be an impersonal God. There's not much personal about the laws of physics.
+I am discounting reports of UFOs. Why would they appear only to cranks and weirdos?
+The life we have on Earth must have spontaneously generated itself. It must therefore be possible for life to generate spontaneously elsewhere in the universe.
+Evolution has ensured that our brains just aren't equipped to visualise 11 dimensions directly. However, from a purely mathematical point of view it's just as easy to think in 11 dimensions, as it is to think in three or four.
+I think that it's important for scientists to explain their work, particularly in cosmology. This now answers many questions once asked of religion.
+Equations are just the boring part of mathematics. I attempt to see things in terms of geometry.
+The danger is that global warming may become self-sustaining, if it has not done so already. The melting of the Arctic and Antarctic ice caps reduces the fraction of solar energy reflected back into space, and so increases the temperature further. Climate change may kill off the Amazon and other rain forests, and so eliminate once one of the main ways in which carbon dioxide is removed from the atmosphere. The rise in sea temperature may trigger the release of large quantities of carbon dioxide, trapped as hydrides on the ocean floor. Both these phenomena would increase the greenhouse effect, and so global warming further. We have to reverse global warming urgently, if we still can.
+I'm not religious in the normal sense. I believe the universe is governed by the laws of science. The laws may have been decreed by God, but God does not intervene to break the laws.
+In a world that is in chaos politically, socially and environmentally, how can the human race sustain another 100 years?
+To confine our attention to terrestrial matters would be to limit the human spirit.
+There is a fundamental difference between religion, which is based on authority and science, which is based on observation and reason. Science will win, because it works.
+We should seek the greatest value of our action
+Science predicts that many different kinds of universe will be spontaneously created out of nothing. It is a matter of chance which we are in.
+Women. They are a complete mystery.
+One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.
+We are all different — but we share the same human spirit. Perhaps it's human nature that we adapt — and survive.
+It has certainly been true in the past that what we call intelligence and scientific discovery have conveyed a survival advantage. It is not so clear that this is still the case: our scientific discoveries may well destroy us all,
+The whole history of science has been the gradual realization that events do not happen in an arbitrary manner, but that they reflect a certain underlying order, which may or may not be divinely inspired.
+Galileo, perhaps more than any other single person, was responsible for the birth of modern science.
+Just like a computer, we must remember things in the order in which entropy increases. This makes the second law of thermodynamics almost trivial. Disorder increases with time because we measure time in the direction in which disorder increases. You can’t have a safer bet than that!
+One could say: The boundary condition of the universe is that it has no boundary. The universe would be completely self-contained and not affected by anything outside itself. It would neither be created nor destroyed. It would just BE.
+What is it that breathes fire into the equations and makes a universe for them to describe? The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?
+I have noticed that even people who claim everything is predetermined and that we can do nothing to change it, look before they cross the road.
+When I gave a lecture in Japan, I was asked not to mention the possible re-collapse of the universe, because it might affect the stock market. However, I can re-assure anyone who is nervous about their investments that it is a bit early to sell: even if the universe does come to an end, it won't be for at least twenty billion years.
+The universe would have expanded in a smooth way from a single point. As it expanded, it would have borrowed energy from the gravitational field, to create matter. As any economist could have predicted, the result of all that borrowing, was inflation. The universe expanded and borrowed at an ever-increasing rate. Fortunately, the debt of gravitational energy will not have to be repaid until the end of the universe.
+Mathematics is more than a tool and language for science. It is also an end in itself, and as such, it has, over the centuries, affected our worldview in its own right.
+If aliens visit us, the outcome would be much as when Columbus landed in America, which didn't turn out well for the Native Americans. … We only have to look at ourselves to see how intelligent life might develop into something we wouldn't want to meet.
+We are each free to believe what we want and it is my view that the simplest explanation is there is no God. No one created the universe and no one directs our fate. This leads me to a profound realization. There is probably no heaven, and no afterlife either. We have this one life to appreciate the grand design of the universe, and for that, I am extremely grateful
+The development of full artificial intelligence could spell the end of the human race. We cannot quite know what will happen if a machine exceeds our own intelligence, so we can't know if we'll be infinitely helped by it, or ignored by it and sidelined, or conceivably destroyed by it.
+If machines produce everything we need, the outcome will depend on how things are distributed. Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution. So far, the trend seems to be toward the second option, with technology driving ever-increasing inequality.
+Any physical theory is always provisional, in the sense that it is only a hypothesis: you can never prove it. No matter how many times the results of experiments agree with some theory, you can never be sure that the next time the result will not contradict the theory. Each time new experiments are observed to agree with the predictions the theory survives, and our confidence in it is increased; but if ever a new observation is found to disagree, we have to abandon or modify the theory.
+What's a brief description of the problem you are having?
+Alright
+I've sent an email to your registered account with debugging information and instructions for contacting support.
+Would you like to create a troubleshooting package? This will send logs to your registered email.
+An error occurred and I was not able to send your support email.
+I've created a support ticket and sent a confirmation to your email.
+I don't know your email address. You can tell me by saying 'Neon, my email address is...'
+Just a moment.
+One moment.
+support
+Mycroft Troubleshooting Assistant
+Please briefly describe the problem you are experiencing
+What's a brief description of the problem you are having?
+Alright
+I've sent an email to your registered account with debugging information and instructions for contacting support.
+Would you like to create a troubleshooting package? This will upload logs to the termbin dot com service and email a link to you with more information.
+One moment.
+support
+Mycroft Troubleshooting Assistant
+I can not install THEIA IDE on this device. There is to precompiled package and system has to little memmory to build and compile.
+Theia I D E is not running
+Theia I D E is stopped
+Installing Theia IDE.
+Theia IDE did not install. There were errors during the installation.
+Theia IDE installed OK.
+This platform is not supported.
+Which one do you prefer?
+Sounds good.
+I do not speak the language you requested, please try something else.
+Your options are:
+Okay, I will speak to you in only one language.
+I am sorry, this selection is not in the list of options. Please try again.
+It looks like you requested a secondary, language but I did not hear two available languages in your request. Please, try again.
+thank you for installing True cult Black Metal Skill
+Check your configuration file for errors
+voice demo stopped
+The available voice modules are
+The available text to speech engines are
+The following text to speech engines are available
+The available text to speech modules are
+The following text to speech modules are available
+Change to what text to speech module
+Change to what text to speech engine
+I could not understand what voice i should use
+Displaying your recent files
+Launching camera.
+Sorry, I can't find a camera to use.
+I will take a picture instead of a 1 second video
+I'm still learning how to do that on your device.
+Here you go.
+I'm running on a device that does not have an official platform build number.
+You are on the latest version.
+VIIRS, Visible Infrared Imaging Radiometer Suite, is a scanning radiometer with 5 high-resolution Imagery bands, 16 Moderate resolution bands and a Day/Night band.
+The Visible Infrared Imaging Radiometer Suite is a sensor designed and manufactured by the Raytheon Company on board the Suomi National Polar-orbiting Partnership and NOAA-20 weather satellites.
+I don't have satellite imagery that recent
+No data available for selected date
+Zoom must be between 0 and 8
+The regularly spaced gaps near the equator are due to lack of coverage between orbits. Terra, Aqua and Aura are polar orbiting satellites, traveling from pole to pole. The Terra satellite travels north to south. Aqua and Aura move in the opposite direction, south to north. At high latitudes, adjacent imaging swaths overlap significantly but at the equator gaps occur between adjacent swaths. As a result, complete global coverage is achieved every one to two days.
+Approximately 70% of the earth's surface is covered by clouds at any given time. That means there is a good chance that the region you want to see will have some cloud cover.
+Zoom is already at maximum
+Zoom is already at minimum
+Call is muted
+Call is now on hold
+Rejected call
+Call rejected
+I have the following contacts
+I know the following phone numbers
+I know the following SIP contacts
+I know the following VOIP contacts
+node red is already a fallback skill
+node red is not a priority skill
+Credentials are not set
+I do not know who is calling
+Someone is calling, not in my contact list
+Unknown person is calling
+Someone is calling, i don't know who
+Ok, i won't handle incoming calls
+I will not reject nor answer calls automatically
+Automatic call answering disabled
+I don't have any active call
+I will reject all incoming calls
+Resuming active call
+SIP login failed, verify your credentials
+I am connected to a SIP server
+Connection successful, you can now receive and place VOIP calls
+I am not logged into the SIP server
+Restarting SIP service
+SIP service is already running
+Credentials for Sip X Com seem to be invalid
+Credentials for Sip X Com rejected
+Credentials error for Sip X Com
+An error occurred when fetching contact list from sip x com
+An error occurred when downloading contact list from sip x com
+An error occurred when synchronizing contact list with sip x com
+Call unmuted
+Unmuting call
+Do you want to restart the SIP service
+Do you want to reboot the SIP service
+Volume is at maximum.
+I can't get any louder.
+I'm at maximum volume.
+This is the maximum volume.
+Audio is going to be muted
+Sound is going to be muted
+The volume already at maximum
+I can't get any louder
+I don't have anymore pictures
+I'm out of pictures to show you
+enjoy your new wallpaper
+I don't know how to change wallpaper in this platform
+east
+north
+north east
+north west
+south
+south east
+south west
+west
+I'm afraid I don't know that
+I don't have that information
+heavy
+humidity
+light
+I not sure where that is
+I don't know that location
+I don't know that place
+meters per second
+miles per hour
+No precipitation is in the forecast
+None is forecasted
+rain
+clear
+snow
+the wind
+Webb will be the largest, most powerful and complex space telescope ever built and launched into space. It will fundamentally alter our understanding of the universe.
+Leaving the mysterious kingdom of Zork
+Now leaving Zork
+Exiting Zork
+There's no current savegame
+No save game exists
+Save game deleted
+Removed the save game
+I can't find a related Wikipedia article
+I'm afraid there isn't any article about that
+or
+That's all I know
+That's all I can find
+i don't know
+i am not sure
+i tried searching wiki how but couldn't find anything
+I can't find a related Wikipedia article
+I'm afraid there isn't any article about that
+That's all I know
+That's all I can find
+knowledge roulette activated
+playing the wikipedia roulette
+Unable to find a light nearby
+dimmed
+Before you can use me to control your lights you will need to enter Wink account information. Please visit home dot mycroft dot A I to set this up.
+off
+on
+lit
+I wasn't able to communicate with the Wink service. Please verify the username and password you've entered a home.mycroft.ai.
+the wolf does not know the answer
+I have been reset to factory defaults.
+Please wait a moment as I finish booting up.
+I will now upload interaction data to Mycroft AI to allow me to get smarter.  Currently this includes recordings of wake-word activations.
+an error occurred while updating skills
+I'm having trouble communicating with the Mycroft servers. Please give me a few minutes before trying to speak to me.
+I'm having trouble communicating with the Mycroft servers. Please wait few minutes before trying to speak to me.
+It seems I cannot connect to the Mycroft servers. Please give me a few minutes before trying to speak to me.
+It seems I cannot connect to the Mycroft servers. Please wait few minutes before trying to speak to me.
+SSH logins are now allowed
+Checking for updates
+Just a moment while I update myself
+SSH login has been disabled
+It seems I'm not connected to the Internet, please check your network connection.
+I don't seem to be connected to the internet, please check your network connection.
+I can't reach the internet right now, please check your network connection.
+I'm unable to reach the internet, please check your network connection.
+I'm having trouble reaching the internet right now, please check your network connection.
+I need to restart after synchronizing my clock with the internet, be right back.
+Interaction data will no longer be submitted to Mycroft AI.
+Sorry, I didn't catch that
+I'm afraid I couldn't understand that
+Can you say that again?
+Can you please repeat that?
+REBOOTING...
+Hello I am Mycroft, your new assistant. To assist you I need to be connected to the internet. You can either plug me in with a network cable, or use wifi. Follow these instructions to set up wifi:
+I'm up to date now
+Skills Updated.  I'm ready to help you.
